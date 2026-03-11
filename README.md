@@ -25,6 +25,6 @@ method.
 
 DISCLAIMER: When I started this script I tought autohotkey was a small macro tool and I didn't know that it had
 such Programming Language capabilities. So the code is pretty improvised, pretty suboptimal and quite messy,
-
 it works fine tho, so far at least...
+
 
