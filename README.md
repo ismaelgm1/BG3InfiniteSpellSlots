@@ -15,7 +15,7 @@ method.
  top of the level 2 option without needing to move the mouse. Then place Create Spell Slot to the left
  of it and your potions of Angelic Reprieve to the right. Press F9 and introduce the right inputs.
 
- [![Demo Video](screenshot.png)](assets/bg3ssdemo.gif)
+![Demo](assets/bg3ssdemo.gif)
 
 # Hotkeys
 
@@ -27,3 +27,4 @@ DISCLAIMER: When I started this script I tought autohotkey was a small macro too
 such Programming Language capabilities. So the code is pretty improvised, pretty suboptimal and quite messy,
 
 it works fine tho, so far at least...
+
